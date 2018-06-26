@@ -1,0 +1,5 @@
+a=int(input("what is your number?: "))
+b=int(input("What is your second number?: "))
+print(a+b)
+print(a-b)
+print(a*b)
